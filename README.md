@@ -27,3 +27,17 @@ Repository for the Data Structures Curricular Unit
 - Definitions, matrices, and lists of adjacencies
 - Search Algorithms
 - Shortest Path 
+
+## 📚 **Teaching Staff**
+Professor Francisco Morgado
+
+Professor Raquel Sebastião
+
+Professor Carlos Simões
+
+## ⚠️ **Disclaimer**
+This is a university ppurpose repository and may contain suboptimal practices or even errors.
+
+If you have any questions or suggestions, feel free to ask.
+
+This repository is public and it is intended for archival and educational purposes only.
